@@ -90,7 +90,7 @@ def th(b,w,c,e,sd,go):
  G.h={};G.k={};L=sorted(lg(b,w,e),key=lambda m:-ok(b,m,0,0))
  if not L:return'0000'
  best=L[0];mt=go.get('movetime');rem=mt or go.get(('btime','wtime')[sd],1e6);now=time.time()
- hard=min(200,rem*.15)
+ hard=min(200,rem*.35)
  G.dl=now+hard/1e3;G.cap=int(hard*3)+1;G.n=0;G.tt={}
  try:
   for d in range(1,8):
