@@ -29,8 +29,8 @@ def Q(b,w,c,e,m,fl=1):
  i,j,r=m;n=[*b];p=n[i];n[i]='.';n[j]=r or p
  if p=='P'and j==e:n[j+10]='.'
  if p=='K'and abs(j-i)==2:n[98-7*(j<i)]='.';n[96-2*(j<i)]='R'
- if not fl:return n
- w&=~3 if p=='K'else~((i==91 or j==91)+2*(i==98 or j==98));c&=~((j==21)+2*(j==28));return F(''.join(n)),c,w,(i+N)%10+110-(i+N)//10*10 if p=='P'and j-i==N*2 else 0
+ if fl<1:return n
+ w&=~3 if p=='K'else~((91 in(i,j))+2*(98 in(i,j)));c&=~((j==21)+2*(j==28));return F(''.join(n)),c,w,(i+N)%10+110-(i+N)//10*10 if p=='P'and i-j==20 else 0
 def E(b):
  s=0
  for i,c in enumerate(b):
@@ -39,8 +39,8 @@ def E(b):
 def M(b,m,tm,p):
  if m==tm:return 1e7
  i,j,r=m;q=b[j]
- if q>'Z'or r:return 2e4+9*V.get(q.upper(),0)-V[b[i]]
- return G.h.get((b[i],j),0)+(m==G.k.get(p))*5e3
+ if q>'Z'or r:return 8e4+9*V.get(q.upper(),0)-V[b[i]]
+ return G.h.get((b[i],j),0)+(m==G.k.get(p))*9e3+4-abs(j%10-4)
 def S(b,w,c,e,a,B,d,p=0,n=1):
  if time.time()>G.dl:raise G
  ic=A(b,b.index('K'));q=d<1;g=q and ic<1;s=E(b)if g else 0
@@ -79,11 +79,11 @@ def X(t):
 def I(b,w,c,e,o,g):
  G.h,G.k,G.tt={},{},{};L=U(b,w,e)
  if not L:return'0000'
- L.sort(key=lambda m:-M(b,m,0,0));z=L[0];k='bw'[o];d=dict(zip(g,g[1:]));N=lambda x,f=0:int(d[x])if x in d else f;r=N('movetime')or N(k+'time',800);h=0 if r<40 else min(r-20,r if N('movetime') else r//16+N(k+'inc'))
+ L.sort(key=lambda m:-M(b,m,0,0));z=L[0];k='bw'[o];d=dict(zip(g,g[1:]));N=lambda x,f=0:int(d[x])if x in d else f;r=N('movetime')or N(k+'time',80);h=0 if r<40 else min(r-20,r if N('movetime') else r//16+N(k+'inc'))
  if h<1:return H(z,o)
  G.dl=time.time()+h/1e3
  try:
-  for d in range(1,8):
+  for d in range(8):
    S(b,w,c,e,-4e4,4e4,d);t=G.tt.get((b,w,c,e))
    if t and t[3]:z=t[3]
  except G:[]
