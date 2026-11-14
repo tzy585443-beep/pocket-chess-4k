@@ -1,3 +1,114 @@
 # SPDX-License-Identifier: MIT
-#coding:latin-1
-import zlib;exec(zlib.decompress('xÚÛr›Hö]_ÁÖÖ@4\n KÑ­õìN’JÆe{R™­QX‚–„%dÅ35ÿ¾çœîä8Iíz&tŸû½[7~½úç¿I$²R8ïb‘UÉ:ÅÔøåİÇN’æ‡¢2ÊÇ’UI*:—ÜñÜÎ57/™ã1øÏ…o96agunØ+~½œ^ìzy1\r:ï/¹éø\x00àMàŸÏœ13ø†WÀ?}àqUæ÷\\—]ò?ƒÁİğ!¬\\óÉË!{Ï]«‹µ‘—•±ÄšvŒ5Oşá¹³äÅxLyšdæÄ;kkö‰ú°Œ‚‘¬ˆóîU°ŒtÃÄ†{fáx–mz¸½6\x00ñ‚\r­0‹báb_\nÃ…ıa½=`#K-3o$ñ;\x00¨¨_¶¨§=ÏÒ#ÄÌy1çCMÑ1Ä±˜d–.¼zë‚¥½±í·ˆ¾:#:²G\x001´Ç-ˆ›ÄÈ6}Ÿˆ/FF-j›Şõ=¨\r:Ù,›c§°zòkİ}öÒªzÕ&Ó¦¸@Î†N¸*Á<–ê@°…¨EìO¶)àÓê†ÃÁ¨ó‘ÿM—n\x00ü\\c}(Œ¨Ÿ>üÕi½ ¯á-Á·"Ì6ÂhŒ\x00Ã›SÌù˜ÌéÃ+ÆÂœO¦ÁùË$à:f:¿Üğ¥éy2Z,ô¢>G<èüÎ»†şûœu;ïøï=ßîE¶ºß­²âsfäê¶a£¯şà­wïWê\x00o._]¿uyƒ€@¥íÃ²4ŞLsøê¼éo·üÏ¿foú»|«Í_«CnşëK$ò*9d–Å¨’hg¢òoú™Í=\nnx\\ğ7ı(Ì\rPŞ~xœ»dÌÙ~.Šõmt8f•(Lkñ¦ï§E˜€ßÑıÙ\\YSé§n·w\x00ç®–É4ÿO\rD)ÿ»–Õ/Oa…¥0e~†Ue®ØÎR>‹ëı¥òÕj¹³ã\x00Â0ë*V†×‚»F°;0³{¾ZŞëvmã´Mö‚ÖûÏÆÍ¿Æ¹ï\nŠ.‚XÜXjmÕ¬½²Z´ÕHêLPÒˆĞ›çÉWÒ²O ¥ÈYŠŠ&ì<e+¾O ÖVÖ,âX/˜Ñ\'Š‰Ow/ĞAQ«"¡wœ‹|Š\x00hl„®Ş\x00¦Ó“XœûÊ’wó&^M|r`1€mJg\\7›#µyîàle±ˆÚp7;E “v]Â(ıDvLEVãC2Ï•õ“ò˜çNÓè\x00\r#;\n¹ÛTZéòÄ¾O²°@O¤ÆÀ•ËÄ2†İë›WPJ±É²9íëÍV·+W€ÒØ\'óñ„Bx:¾«˜jh\\R:àÌKˆâKÛ³Éb-zTÜN¨"ÈÚW\ná‰?RAêğDzY™éò½´P-İûK£n-Tc¯_eÖ,ó0(`³ôŒ[£Œ²ÂY„%œO†5õS%YZrBaÓUo>¼Á×@~]HãÄ„)s2DiÔóEëy`YJûÉŞ´÷$?OóŸñIF/ÈhÔz~yÆè¥6´\n Ú¾¯ŒºÉ’yoŒº¥™»‰Yw<åïºŞH%îÏ¼qßrÄªáî;±{ßZ‹%ç^lÚÉyàË@¦hŠ	ú$u’İòV}jR­S²²Ÿd±øb‚ãÁL‡~Bf±‰€ªöˆiî„¤»ŠêJW²¨M{†ŠÜBå#(¾ì¢€-{«ÖÌA}‚—¹r\rÍÃ"x‡SŠ4îÖ[c½5RP¨-Xñ½éªŒ+c\\‘0™Èy\ré¼°&‚¹jªüÙ,-Vó=(é§<ır³BÚÒ]a¡1Äƒ¬~é†Ã„”o¹;;®9Í-îLè§ÕÍVÍÄ.Ğò::ü5újwvä-ØÙÿ¸|\r“Ò8J±@Ò$ Øƒ™?ü„ÓÔ=,ŞHåöq\nÓßÌ`ÚâT(ÒCk\\Ë·6§iô5Í†DÚ×ï*\r^cq‚z¦è¾–åİ<®[âˆµµÄQ* ‰ìƒs¸Áò­5ûƒ+Ã¬[›h£×Ëu°ğ¦88“ÓÍÕ¸\'ô{âl uAÀÇ€	>Ù^`!=ôHMFƒŠTÔ 6ÿóäQCyíq•Ëb},¹·YÌUøKiˆŒUãÈĞ^EP*(³Ã.Gcéªâ»ó»ùdÒTøŠ”–a¥a4 €¼ˆ	ÄëJA…BbÁ–¤ÆÜœ¨I·ÅŸŸ`@oslz\x00Ûqêµ¦ŸßèÒ+Íƒ9ßóui!ëGƒVÔhB¢9çhÇs´’›é¦1)6=ˆ¢ÇzñÂ¿°ÿ C¥OC¬	%Û‚¸(mî_œo¬ä†C*ßåà|ØAÙJY•²|ÿÈéü\x00ˆ)çUZÏn¯÷²™çdŸX—4¸á0À’L78	}\\Ê¥D/uÔshÔIMr srğxÀSê½NıàŸlû€Ù^b¤öX!Æ¶ïºÍù\rvñ0ÑßˆÊ$¶ìÎbä]ÉñxA; ½rÑ®”\'PŒø]‰Öœ¸®«¬²+¡¨IßŒ\\×}bÌû²İB¶ªĞªÊ¦ğ´¹Ú¨€*Ï,³$â²C¯Ú=hVVª¦cH$iRq*¹RÎ²ZğU¥é•U½NC¯iÉ—iÓÛıûJ„¾K—~@.L¡e<;ÚáMwA-MZj® “3p•y€"Fòî—‡¢2wâ‘ïÃt‡F:U±vyÈÙ…âA¥àX½VÔû&½Zàİôn€Ğ©„ŠPcx’2³‡‡Tf³loäÎÃö€˜±ìÄ²Ëÿºñ£C¸.o ˜wBTÎÖ¹\\ f$©Xjà\'Y“ä®…äQUÂô™ärõUpÅÈ‰]±,•Yó(CG´ğ-\rL¼¢\x00È‹œ¦ì«%¬¼\r`Cy®ŠGrÃ³¡+õç¦ó´Àñ°ª4qkV¥\\,è*!}±¢ÚI* ı<¦g%½)(B]c–=êhO«^÷ëõ9­ú|‹xÏSòvŠ4Q&CÎ(£çÃ“BÕ¦2cæ²2¢(·f:;#bğíœõ÷<#ˆÚVÕˆ~ñ2øMP -V =ô#|’s„&^_ ÙA%—‚ÓÃØÈ…Ğ¡B(ã±UMVXM(\\Ôw¶JyŠ¥oº<ìÈãBÆÒó© -%oÌà˜cœ@ŸM#Úî(xø¼òe1Ï6B*=i!3ğóºsÑ©—ÅZ5«sv@.DÌ³…¼]ÌÚvÔlTÙh©¨ªÔ#Ò“zHT¿!KˆA(ŒlÏ¢4Ÿ—ÑŒı¿(‚Šd)Á K©âeüÿ‘]RlŠPt^…šsX¦OòOú%3-Kí¨LÖ‰uúo²MNx	€)³ly¢€­)Œk\n‚ÀDáİ `(5Ã^½Üî–‡{¬îŞÛ–Ÿ¸+ìzÖ£ë-ç÷H†_Lgü”¢CôÎ2Ø£éIÈk4\x00\\‚Ú¡ÏNL¹ñÛåÚX\'Y¸ßS”Æn*âë´[œZ÷c×K3©ïÃUK›m—0çÚeU˜ú:ŸnÚS«×œQ‘Š\r£”e}ÕçäÏGó(™J^_4/“ÈÂ„ø\reµHë5ècx#|(bxwË™ŒZìË©Xüé<ñÇ\rİrå1ıÆfEWŸ­pboù;\'ÏRŸ.óØŸa[ê¦‡Qb-«vSUk½.«.ä›Ê¾¿;ko³·Kğ÷[ÙYTÓ2Z|U””‰¬Ùé?¼uáy&±´åÆ¤…o§„•\'•d¾™Ü¢î`{jê7ŒÎİŞ;wYw¥¾OIá«üB•ÔF,òjÛ•å4^"zÀÑ\'ğ„‡Y3¾¾¾Iì–Äòn¤Ú&ÙÎ<—mò‚üübû¶%›íöÇ¾5¹÷¨§a»EWMsÔ1P²”oä\ne€:Î´!èˆä²¨E£´ ÉFØ®²Ã‰?s_‡d‘›ı|SÅe³\'—ÃºbÛ°ˆyZõÜşÑ×ËæÄPˆR‚_P²øo¨R62€,OC—aMƒMÒ¾oƒŒHjH…Q²\x0008?1Æ€°¡9Š›…8øılÄ…ä†Îû¦_®i	±õRæò2aì*Úpa ˆØƒ#—…e/ã\\U\\&–ÙX4õc>Ä{Có‰e×¨æ·–°‚QÙ;YõH—‡yÕ¾ÉĞ^”Ì˜‚–¾şØ…÷ßaÊusãMò|ò•	“Ÿ@	*Ç[Ùë›a²]\nt³Óä  Jƒ¦ÚÂógYûf-èg&ú)HşÎd<cL¶ßLš{ÊG˜ïªøp¬ú§"q¨´»Ÿ³.œäšõşXnUaLCp !V\\¹hÆ}’aõÕÔjj9Çå~™ï“ÊlM¦yû°ã)¥›¾f8FIwú›ÙM`S¦Î£íçŞÃcµ^åç€»®U_¹^R‚şñ#áÒÓS\x00ÀÉÄi4»Ó:ºšíüP&øë"İ²\n‹\nV0œò)hJí ?£·9Ô¿‹ R0áh¸eƒ/\'	-AjtmYåzà	*ÊÖÕûcRéŸÇ:°v{‹V¸½…­Û[´ıímw*}Ğù/æUt'.encode('latin-1')))
+import time
+N=-10
+D=N,-1,1,10,-11,-9,9,11
+R,B=D[:4],D[4:];K=(-21,-19,-12,-8,8,12,19,21);Y=dict(N=K,B=B,R=R,Q=D,K=D,P=(N,-20,-11,-9))
+V=dict(P=100,N=320,B=330,R=500,Q=900,K=0)
+Z=' '*9+'\n';I=Z*2+' rnbqkbnr\n pppppppp\n'+' ........\n'*4+' PPPPPPPP\n RNBQKBNR\n'+Z*2
+class G(Exception):pass
+def tk():
+ G.n+=1
+ if G.n>=G.cap or G.n&31==0 and time.time()>G.dl:raise G
+F=lambda b:''.join(b[i:i+10]for i in range(110,-1,-10)).swapcase()
+def A(b,k):
+ if any(b[k+d]=='n'for d in K):return 1
+ for d in D:
+  j=k+d;q=b[j]
+  if q=='k':return 1
+  while q=='.':j+=d;q=b[j]
+  if q=='q'or q=='r'and d in R or q=='b'and d in B:return 1
+ return'p'in(b[k-9],b[k-11])
+def gn(b,w,e):
+ for i,p in enumerate(b):
+  if not p.isupper():continue
+  for d in Y[p]:
+   j=i+d
+   while 1:
+    q=b[j]
+    if q<'.'or q.isupper():break
+    if p=='P'and(d in(N,N+N)and q!='.'or d==N+N and(i<81 or b[i+N]!='.')or abs(d+10)==1 and q=='.'and j!=e):break
+    yield (i,j,'Q')if p=='P'and j<30 else(i,j,'')
+    if p in'PNK'or q>'Z':break
+    if i in(91,98)and w&(1+(i>95))and b[j+1-2*(i>95)]=='K'and not A(b,95)+A(b,94+2*(i>95))+A(b,93+4*(i>95)):yield 95,93+4*(i>95),''
+    j+=d
+def lg(b,w,e):
+ return[m for m in gn(b,w,e)if not A((s:=mk(b,w,w,e,m,0)),s.index('K'))]
+def mk(b,w,c,e,m,fl=1):
+ i,j,r=m;n=[*b];p=n[i];n[i]='.';n[j]=r or p
+ if p=='P'and j==e:n[j+10]='.'
+ if p=='K'and abs(j-i)==2:n[98-7*(j<i)]='.';n[96-2*(j<i)]='R'
+ s=''.join(n)
+ if not fl:return s
+ w=0 if p=='K'else w&~(i==91 or j==91)&~(2*(i==98 or j==98))
+ c&=~(j==21)&~(2*(j==28))
+ return F(s),c,w,(i+N)%10+110-(i+N)//10*10 if p=='P'and j-i==N*2 else 0
+def ev(b):return sum(V.get(c,-V.get(c.upper(),0))for c in b)
+def ok(b,m,tm,p):
+ if m==tm:return 1e7
+ i,j,r=m;q=b[j]
+ if q>'Z':return 9*V.get(q.upper(),100)-V[b[i]]
+ return G.h.get((b[i],j),0)+(m in G.k.get(p,()))*5000
+def ab(b,w,c,e,a,B,d,p=0,nm=1):
+ tk();ic=A(b,b.index('K'));q=d<1;s=ev(b)if q and ic<1 else 0
+ if q and ic<1:
+  if s>=B:return s
+  a=max(a,s)
+ z=b,w,c,e;t=d>0 and G.tt.get(z)
+ if t and t[0]>=d and p and(t[1]==0 or t[1]>0 and t[2]>=B or t[1]<0 and t[2]<=a):return t[2]
+ L=[m for m in lg(b,w,e)if q<1 or ic or m[2]or b[m[1]]>'Z'or m[1]==e]
+ if not L:return p-3e4 if ic else s if q else 0
+ L.sort(key=lambda m:-ok(b,m,t and t[3],p))
+ if nm*d>2 and p and ic<1 and -ab(F(b),c,w,0,-B,1-B,d-3,p+1,0)>=B:return B
+ bs,bm,a0=(s if q and ic<1 else -4e4),L[0],a
+ for i,m in enumerate(L):
+  qt=b[m[1]]=='.'and not m[2];u=mk(b,w,c,e,m);nd=d-1 if d>0 else 0
+  v=-ab(*u,-a-1,-a,nd-(i>3)*(nd>2)*qt,p+1)if i and nd else -ab(*u,-B,-a,nd,p+1)
+  if i and nd and a<v<B:v=-ab(*u,-B,-a,nd,p+1)
+  if v>bs:bs,bm=v,m
+  if v>a:a=v
+  if a>=B:
+   if d*qt:G.k[p]=((m,)+G.k.get(p,()))[:2];G.h[b[m[0]],m[1]]=G.h.get((b[m[0]],m[1]),0)+d*d
+   break
+ if d>0:G.tt[z]=(d,(bs>=B)-(bs<=a0),bs,bm)
+ return bs
+def fm(m,s):
+ z=lambda i:'abcdefgh'[i%10-1]+str((10-i//10,i//10-1)[not s]);return z(m[0])+z(m[1])+m[2].lower()
+def pu(u,s):
+ z=lambda x:(10-int(x[1]),int(x[1])+1)[not s]*10+ord(x[0])-96;return z(u[:2]),z(u[2:4]),u[4:].upper()
+def ld(tk):
+ b,w,c,e,sd=I,3,3,0,1
+ if'moves'in tk:
+  for u in tk[tk.index('moves')+1:]:b,w,c,e=mk(b,w,c,e,pu(u,sd));sd^=1
+ return b,w,c,e,sd
+def pg(p):
+ d,i={},1
+ while i<len(p):
+  if i+1<len(p)and p[i]in('wtime','btime','movetime'):d[p[i]]=int(p[i+1]);i+=2
+  else:i+=1
+ return d
+def th(b,w,c,e,sd,go):
+ G.h={};G.k={};L=sorted(lg(b,w,e),key=lambda m:-ok(b,m,0,0))
+ if not L:return'0000'
+ best=L[0];mt=go.get('movetime');rem=mt or go.get(('btime','wtime')[sd],1e6);now=time.time()
+ hard=min(200,rem*.35)
+ G.dl=now+hard/1e3;G.cap=int(hard*3)+1;G.n=0;G.tt={}
+ try:
+  for d in range(1,8):
+   if d>1 and time.time()>G.dl:break
+   sc=ab(b,w,c,e,-4e4,4e4,d);t=G.tt.get((b,w,c,e))
+   if t and t[3]:best=t[3]
+   if abs(sc)>2e4:break
+ except G:pass
+ return fm(best,sd)
+def W(s):print(s,flush=1)
+def main():
+ st=None
+ for ln in open(0):
+  p=ln.split()
+  if not p:continue
+  x=p[0]
+  if x=='uci':W('uciok')
+  elif x=='isready':W('readyok')
+  elif x=='position'and'startpos'in p:st=ld(p)
+  elif x=='go':st=st or ld(['startpos']);W('bestmove '+th(*st,pg(p)))
+if __name__=='__main__':main()
