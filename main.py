@@ -25,19 +25,19 @@ def J(b,w,e):
     j+=d
 def U(b,w,e):
  return[m for m in J(b,w,e)if not A((s:=Q(b,w,w,e,m,0)),s.index('K'))]
-def Q(b,w,c,e,m,fl=1):
+def Q(b,w,c,e,m,f=1):
  i,j,r=m;n=[*b];p=n[i];n[i]='.';n[j]=r or p
  if p=='P'and j==e:n[j+10]='.'
  if p=='K'and abs(j-i)==2:n[98-7*(j<i)]='.';n[96-2*(j<i)]='R'
- if fl<1:return n
+ if f<1:return n
  w&=~3 if p=='K'else~((91 in(i,j))+2*(98 in(i,j)));c&=~((j==21)+2*(j==28));return F(''.join(n)),c,w,(i+N)%10+110-(i+N)//10*10 if p=='P'and i-j==20 else 0
 def E(b):
  s=0
  for i,c in enumerate(b):
-  if c>'@':u=c.upper();r=i//10;r=9-r if u==c else r-2;s+=(V[u]+(r if u=='P'else 4-abs(r-3))*6)*(1-2*(u!=c))
+  if c>'@':u=c.upper();r=(9-i//10,i//10-2)[u!=c];s+=(V[u]+((u=='K')*(8-r)or(u=='P')*r*6 or 4-abs(r-3)))*(1-2*(u!=c))
  return s
-def M(b,m,tm,p):
- if m==tm:return 1e7
+def M(b,m,t,p):
+ if m==t:return 1e7
  i,j,r=m;q=b[j]
  if q>'Z'or r:return 8e4+9*V.get(q.upper(),0)-V[b[i]]
  return G.h.get((b[i],j),0)+(m==G.k.get(p))*9e3+4-abs(j%10-4)
@@ -72,14 +72,14 @@ def X(t):
  i=t.index('moves')if'moves'in t else len(t);f=t[2:i]if t[1]=='fen'else['rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR','w','KQkq','-'];s=f[0]
  for n in'87654321':s=s.replace(n,'.'*int(n))
  b=Z*2+' '+'\n '.join(s.split('/'))+'\n'+Z*2;C=f[2];w=2*('K'in C)+('Q'in C);c=2*('k'in C)+('q'in C);x=f[3];e=x!='-'and(10-int(x[1]))*10+ord(x[0])-96
- if f[1]=='b':b,w,c,e=F(b),c,w,e and e%10+110-e//10*10
- o=f[1]=='w'
+ if f[1]<'w':b,w,c,e=F(b),c,w,e and e%10+110-e//10*10
+ o=f[1]>'b'
  for u in t[i+1:]:b,w,c,e=Q(b,w,c,e,O(u,o));o^=1
  return b,w,c,e,o
 def I(b,w,c,e,o,g):
  G.h,G.k,G.tt={},{},{};L=U(b,w,e)
  if not L:return'0000'
- L.sort(key=lambda m:-M(b,m,0,0));z=L[0];k='bw'[o];d=dict(zip(g,g[1:]));N=lambda x,f=0:int(d[x])if x in d else f;r=N('movetime')or N(k+'time',80);h=0 if r<40 else min(r-20,r if N('movetime') else r//16+N(k+'inc'))
+ L.sort(key=lambda m:-M(b,m,0,0));z=L[0];k='bw'[o];d=dict(zip(g,g[1:]));N=lambda x,f=0:int(d[x])if x in d else f;r=N('movetime')or N(k+'time',8);h=min(r-40,r if N('movetime') else r//8+N(k+'inc'))if r>50 else 0
  if h<1:return H(z,o)
  G.dl=time.time()+h/1e3
  try:
